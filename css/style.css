@@ -1,7 +1,12 @@
-.responsive-img { max-width: 80% !important;}
+.responsive-img { max-width: 70% !important;}
 .margin-top-25 { margin-top: 25px;}
 .margin-top-50 { margin-top: 50px;}
 .margin-top-100 { margin-top: 100px;}
-.title-1 { font-weight: 600;font-size: 48px;     color: #6cbb23;}
+.title-1 { font-weight: 600;font-size: 48px;     color: #2b2c2d;}
+.title-2 { font-weight: 600;font-size: 48px;     color: white;}
 .sub-title-1 { text-align: justify;     font-size: 20px; }
 .sub-title-2 { text-align: justify;     font-size: 20px;}
+.divider{margin: 40px auto!important;
+    width: 5%;
+    border-bottom: 3px solid rgba(68,68,68,.42)!important;}
+    .card-title{font-weight: 600 !important;}
